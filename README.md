@@ -1,6 +1,6 @@
 # LEETCODE PROBLEMS
 
-### ABOUT
+## ABOUT
 
     This is the repo where i submit my LeetCode problems solved.
-    Just to see my progress. 
+    Just to see my progress.
